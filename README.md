@@ -41,7 +41,7 @@ This project is intended for use with the following articles on [docs.microsoft.
 
 Although intended for use with the companion articles, you can perform the following steps to run the sample application. These steps require a local [Docker](http://docker.com) installation.
 
-1. `git clone [https://github.com/Azure-Samples/acr-build-helloworld-node](https://github.com/SEE-Academy-ACRHW2/acr-build-helloworld-node)`
+1. `git clone https://github.com/SEE-Academy-ACRHW2/acr-build-helloworld-node`
 1. `cd acr-build-helloworld-node`
 1. `docker run -d -p 8080:80 helloacrbuild:v1`
 1. Navigate to http://localhost:8080 to view the running application
